@@ -3,4 +3,10 @@
     <string name="app_name">Class1</string>
     <string name="hello_message">Bonjour!</string>
     <string name="button_text">Je suis un Button</string>
+    <string name="login">Entrez</string>
+    <string name="login_name">Entrez avec ce prénom</string>
+    <string name="password">Passmot</string>
+    <string name="login_password">Entrez avec ce passmot</string>
+    <string name="help">Qu\'est-ce que ça fait?</string>
+
 </resources>
